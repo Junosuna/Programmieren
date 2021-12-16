@@ -1,9 +1,3 @@
-# Programmieren
+# Liste programmieren
 
-_**Dinosaurier**_
-- Tyrannosaurus rex
-- Diplodocus
-- Brachiosaurus
-- Rhamphorhynchus
-- Cearadactylus
-- Hatzegopteryx
+__Einleitung__
